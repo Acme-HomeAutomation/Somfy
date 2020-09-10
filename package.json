@@ -1,0 +1,21 @@
+{
+  "name": "somfy2mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.1",
+    "node-fetch": "^2.6.1",
+    "yalm": "^4.1.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/mqtt": "^2.5.0",
+    "@types/yargs": "^15.0.5"
+  }
+}
